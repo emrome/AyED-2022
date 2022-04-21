@@ -1,0 +1,13 @@
+Recorrido postorden es A G F E B J I H C D 
+Recorrido inorden es A B G E F D J H I C
+
+Por el postorden sabemos que D es la raiz del árbol. En el inorden busco D y lo que esta a su derecha son los nodos del subarbol derecho, 
+lo mismo con los nodos de su izquierda, son parte del subarbol izquierdo de D.                                                                
+
+Entonces se que A G F E B estan a la izquierda y J I H C a la derecha.
+Del subarbol izquierdo es B la raiz ya que en el postorden es el ultimo que aparece de los nodos.
+Y la raiz del subarbol derecho es la C, ya que esta al final de los nodos derechos de D.
+
+Siguiendo esta misma tecnica, se que el hijo izquierdo de B es A ya que, en el recorrido inorden, 
+esta a la izquierda de B. Asi tambien se que los nodos G E F son parte del subarbol derecho de B, siendo la raiz el nodo E 
+ya que es el ultimo que aparece de esos en el postorden.
