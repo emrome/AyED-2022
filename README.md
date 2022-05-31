@@ -1,2 +1,2 @@
 # AyED-2022
-## Practicas de la materia Algoritmos y Estructuras de Datos
+## Practicas del Módulo 1 (Árboles) de la materia Algoritmos y Estructuras de Datos
