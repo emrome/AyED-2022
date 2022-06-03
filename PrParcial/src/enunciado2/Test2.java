@@ -2,7 +2,7 @@ package enunciado2;
 
 import tp03.ejercicio1.*;
 
-public class Test {
+public class Test2 {
 	public static void main (String []args) {
 		ArbolBinario<Integer> arbol7 = new ArbolBinario<Integer>(7);
 		

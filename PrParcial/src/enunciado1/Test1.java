@@ -2,7 +2,7 @@ package enunciado1;
 import tp02.ejercicio2.*;
 import tp04.ejercicio1.*;
 
-public class Test {
+public class Test1 {
 	public static void main (String []args) {
 		ArbolGeneral<Character> arbol = new ArbolGeneral<Character>('A');
 		ArbolGeneral<Character> hijoB = new ArbolGeneral<Character>('B');

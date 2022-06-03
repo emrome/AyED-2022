@@ -3,7 +3,7 @@ package enunciado3;
 import tp04.ejercicio1.ArbolGeneral;
 import tp02.ejercicio2.*;
 
-public class testParcial {
+public class Test3 {
 	public static void main(String []args) {
 		/*
 							   2	
@@ -17,7 +17,7 @@ public class testParcial {
 			     /  |  \   |       | 
 			    9  10   5  3      13 
 
-*/
+		 */
 		ArbolGeneral<Integer> arbol = new ArbolGeneral<Integer>(2);
 		ArbolGeneral<Integer> hijo1 = new ArbolGeneral<Integer>(1);
 		ArbolGeneral<Integer> hijo2 = new ArbolGeneral<Integer>(12);

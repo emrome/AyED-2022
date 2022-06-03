@@ -38,7 +38,6 @@ public class Test6 {
 		arbol7.agregarHijoDerecho(arbol11);
 
 		Parcial6.colorearArbol(arbol1, 3);
-		Parcial6.imprimirArbol(arbol1);
 		
 	}
 }
